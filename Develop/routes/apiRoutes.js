@@ -2,6 +2,7 @@
 // We need to include the path package to get the correct file path for our html
 const fs = require('fs');
 const router = require('express').Router();
+const uuid = require('uuid');
 
 
 router.get('/notes', function(req,res){
@@ -15,13 +16,38 @@ router.post('/notes', (req,res) => {
         console.log(data);
         const previousNotes = JSON.parse(data);
         // previousNotes.push(req.body); // mutable
-        let newNotes = previousNotes.concat([req.body]); // immutable
+        const newNote = {
+            id: uuid.v4(), // addition of the new uuid into req.body
+            title: req.body.title,
+            text: req.body.text,
+        };
+        let newNotes = previousNotes.concat([newNote]);
+        // let newNotes = previousNotes.concat([req.body]); // immutable
         console.log(previousNotes);
         fs.writeFile('db/db.json',JSON.stringify(newNotes), (err) => {
             err ? console.log(err) : res.json(req.body);
         });
     })  
 });
+
+// router.delete('/notes', (req,res) => {
+//     fs.readFile('db/db.json', "utf8", function(err, data){
+//         console.log(data);
+//         const previousNotes = JSON.parse(data);
+//         // previousNotes.push(req.body); // mutable
+//         const newNote = {
+//             id: uuid.v4(), // addition of the new uuid into req.body
+//             title: req.body.title,
+//             text: req.body.text,
+//         };
+//         let newNotes = previousNotes.concat([newNote]);
+//         fs.deleteFile('db/db.json', )    
+
+
+//         fs.writeFile('db/db.json',JSON.stringify(newNotes), (err) => {
+//         err ? console.log(err) : res.json(req.body);
+//     });    
+// });
 
 // ROUTING
 module.exports = router;

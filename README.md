@@ -20,7 +20,7 @@ Open the desired web browser and go to the page url for either the Repo or the D
 
 [Homework 11 - Note Taker Repo](https://github.com/britt-bot/11-Note_Taker)
 
-[Homework 14 - Note Taker Deployed](https://britt-bot.github.io/11-Note_Taker/)
+[Homework 11 - Note Taker Deployed](https://britt-bot.github.io/11-Note_Taker/)
 
 
 ## Usage 
