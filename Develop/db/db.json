@@ -1,1 +1,12 @@
-[{"title":"booooooo","text":"baaaaaaaa"},{"title":"new note","text":"note1"},{"title":"hi","text":"bye"},{"title":"grrrrrrr","text":"grrrrrrrrrrrrrrrrrrrrrrrr"},{"title":"12345778851dg","text":"sdf\nlgspejgtkdf][\\"},{"title":"erejrakldfsfdsfd","text":"ryiurtioertesdngjkdn"},{"title":"note","text":"notes"},{"title":"note","text":"notes"},{"title":"class notes","text":"notes for class"},{"title":"note10","text":"note10"},{"title":"note","text":"note"},{"title":"note","text":"nite"},{"title":"NEW NOTE","text":"NOTE TEXT GOES HERE"},{"id":"096d0b9f-bf1f-4108-a7cb-10f0400141b7","title":"new note ","text":"new note"}]
+[
+  {
+    "id": "7643bb68-b8fd-4800-b38e-4e664479fc26",
+    "title": "Note",
+    "text": "Note"
+  },
+  {
+    "id": "2fff39f1-02ba-458e-806e-98085881ccc4",
+    "title": "Note 1",
+    "text": "Note 1"
+  }
+]
