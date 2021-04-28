@@ -18,9 +18,9 @@ This table of contents is to make it easy for users to find what they need.
 
 Open the desired web browser and go to the page url for either the Repo or the Deployed project.
 
-[Homework 11 - Note Taker Repo](https://github.com/britt-bot/11-Note_Taker)
+[Homework 11 - Note Taker GitHub Repo](https://github.com/britt-bot/11-Note_Taker)
 
-[Homework 11 - Note Taker Deployed](https://britt-bot.github.io/11-Note_Taker/)
+[Homework 11 - Note Taker GitHub Deployed](https://britt-bot.github.io/11-Note_Taker/)
 
 [Homework 11 - Heroku Deployed](https://note-taker--homework-11.herokuapp.com/notes)
 
