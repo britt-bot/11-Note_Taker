@@ -22,6 +22,7 @@ Open the desired web browser and go to the page url for either the Repo or the D
 
 [Homework 11 - Note Taker Deployed](https://britt-bot.github.io/11-Note_Taker/)
 
+[Homework 11 - Heroku Deployed](https://note-taker--homework-11.herokuapp.com/notes)
 
 ## Usage 
 
