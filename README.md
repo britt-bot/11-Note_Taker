@@ -1,3 +1,4 @@
+![MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 # 11-Note_Taker
 ## Description 
 
@@ -20,13 +21,13 @@ Open the desired web browser and go to the page url for either the Repo or the D
 
 [Homework 11 - Note Taker GitHub Repo](https://github.com/britt-bot/11-Note_Taker)
 
-[Homework 11 - Note Taker GitHub Deployed](https://britt-bot.github.io/11-Note_Taker/)
+[Homework 11 - Note Taker GitHub Deploy](https://britt-bot.github.io/11-Note_Taker/)
 
-[Homework 11 - Heroku Deployed](https://note-taker--homework-11.herokuapp.com/notes)
+[Homework 11 - Heroku Deploy](https://note-taker--homework-11.herokuapp.com/notes)
 
 ## Usage 
 
-A README is a document used to explain an application. Including what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions.
+This app is used to take notes.
 
 ![scrnshot](https://user-images.githubusercontent.com/77466708/115971964-4eccbe00-a511-11eb-9a55-afce1c66efee.png)
 
