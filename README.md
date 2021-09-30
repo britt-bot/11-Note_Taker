@@ -1,5 +1,5 @@
 ![MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-# 11-Note_Taker
+# Note_Taker
 ## Description 
 
 This "Note Taker" application is for users to write and save notes, using Express.js and JSON.
@@ -19,11 +19,10 @@ This table of contents is to make it easy for users to find what they need.
 
 Open the desired web browser and go to the page url for either the Repo or the Deployed project.
 
-[Note Taker GitHub Repo](https://github.com/britt-bot/11-Note_Taker)
+[Note Taker Repo](https://github.com/britt-bot/11-Note_Taker)
 
-[Note Taker GitHub Deploy](https://britt-bot.github.io/11-Note_Taker/)
+[Note Taker Deploy](https://note-taker--homework-11.herokuapp.com/notes)
 
-[Heroku Deploy](https://note-taker--homework-11.herokuapp.com/notes)
 
 ## Usage 
 
@@ -34,7 +33,6 @@ This app is used to take notes.
 ![scrnshot1](https://user-images.githubusercontent.com/77466708/115971965-4eccbe00-a511-11eb-9855-612f75ef4c90.png)
 
 ![scrnshot2](https://user-images.githubusercontent.com/77466708/115971966-4f655480-a511-11eb-9cf6-56c7e2ef3944.png)
-
 
 
 ## Credits
